@@ -37,7 +37,7 @@ Concepts:
 How to Run the Project
 
 Clone the repository:
-git clone https://github.com/your-username/Bank-Management-System.git
+git clone https://github.com/parthasarathi1823/Bank-Management-system.git
 
 
 Navigate to the project directory:
