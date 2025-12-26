@@ -53,7 +53,7 @@ class Bank:
         else:
             print("Account not found!")
 
-    # 🔐 Withdrawal with PAN verification
+    # Withdrawal with PAN verification
     def withdraw(self, acc_no, pan_no, amount):
         account = self.accounts.get(acc_no)
         if not account:
